@@ -1,0 +1,414 @@
+# depslib dependency file v1.0
+1302698845 source:d:\class activity\codebloksglut\drawing.cpp
+	<windows.h>
+	<GL/glut.h>
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<time.h>
+	"drawing.h"
+	"loadBMP.h"
+	"game.h"
+
+1302810963 
+
+1228534332 c:\program files (x86)\codeblocks\mingw\include\windows.h
+	<winresrc.h>
+	<stdarg.h>
+	<windef.h>
+	<wincon.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<winver.h>
+	<winnetwk.h>
+	<winreg.h>
+	<winsvc.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<imm.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<commdlg.h>
+	<winspool.h>
+	<winsock2.h>
+	<winsock.h>
+	<ole2.h>
+
+1228534332 c:\program files (x86)\codeblocks\mingw\include\winresrc.h
+	<winuser.h>
+	<winnt.h>
+	<winver.h>
+	<dde.h>
+	<dlgs.h>
+	<commctrl.h>
+
+1228534324 h>
+
+1228534334 c:\program files (x86)\codeblocks\mingw\include\winuser.h
+
+1228534332 c:\program files (x86)\codeblocks\mingw\include\winnt.h
+	<winerror.h>
+	<string.h>
+	<basetsd.h>
+	<pshpack4.h>
+	<poppack.h>
+
+976692172 >
+
+1228534332 c:\program files (x86)\codeblocks\mingw\include\winerror.h
+
+1250308680 c:\program files (x86)\codeblocks\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1302622544 
+
+1250308674 c:\program files (x86)\codeblocks\mingw\include\_mingw.h
+
+1228534312 c:\program files (x86)\codeblocks\mingw\include\basetsd.h
+
+1228534324 c:\program files (x86)\codeblocks\mingw\include\pshpack4.h
+
+1228534324 c:\program files (x86)\codeblocks\mingw\include\poppack.h
+
+1228534334 c:\program files (x86)\codeblocks\mingw\include\winver.h
+
+1228534314 c:\program files (x86)\codeblocks\mingw\include\dde.h
+
+1228534314 c:\program files (x86)\codeblocks\mingw\include\dlgs.h
+
+1228534314 c:\program files (x86)\codeblocks\mingw\include\commctrl.h
+	<prsht.h>
+
+1228534324 c:\program files (x86)\codeblocks\mingw\include\prsht.h
+
+1228534332 c:\program files (x86)\codeblocks\mingw\include\windef.h
+	<winnt.h>
+
+1228534332 c:\program files (x86)\codeblocks\mingw\include\wincon.h
+
+1228534330 c:\program files (x86)\codeblocks\mingw\include\winbase.h
+
+1228534332 c:\program files (x86)\codeblocks\mingw\include\wingdi.h
+
+1228534332 c:\program files (x86)\codeblocks\mingw\include\winnls.h
+
+1228534332 c:\program files (x86)\codeblocks\mingw\include\winnetwk.h
+
+1228534332 c:\program files (x86)\codeblocks\mingw\include\winreg.h
+
+1228534334 c:\program files (x86)\codeblocks\mingw\include\winsvc.h
+
+1228534312 c:\program files (x86)\codeblocks\mingw\include\cderr.h
+
+1228534314 c:\program files (x86)\codeblocks\mingw\include\ddeml.h
+
+1228534316 c:\program files (x86)\codeblocks\mingw\include\imm.h
+
+1228534320 c:\program files (x86)\codeblocks\mingw\include\lzexpand.h
+
+1228534322 c:\program files (x86)\codeblocks\mingw\include\mmsystem.h
+
+1228534322 c:\program files (x86)\codeblocks\mingw\include\nb30.h
+
+1228534326 c:\program files (x86)\codeblocks\mingw\include\rpc.h
+	<windows.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<winerror.h>
+	<excpt.h>
+
+1228534326 c:\program files (x86)\codeblocks\mingw\include\rpcdce.h
+	<basetyps.h>
+	<rpcdcep.h>
+
+1228534312 c:\program files (x86)\codeblocks\mingw\include\basetyps.h
+
+1228534328 c:\program files (x86)\codeblocks\mingw\include\rpcdcep.h
+
+1228534328 c:\program files (x86)\codeblocks\mingw\include\rpcnsi.h
+
+1228534328 c:\program files (x86)\codeblocks\mingw\include\rpcnterr.h
+
+1250308676 c:\program files (x86)\codeblocks\mingw\include\excpt.h
+	<_mingw.h>
+	<windef.h>
+
+1228534328 c:\program files (x86)\codeblocks\mingw\include\shellapi.h
+	<pshpack2.h>
+	<poppack.h>
+
+1228534324 c:\program files (x86)\codeblocks\mingw\include\pshpack2.h
+
+1228534332 c:\program files (x86)\codeblocks\mingw\include\winperf.h
+
+1228534314 c:\program files (x86)\codeblocks\mingw\include\commdlg.h
+	<unknwn.h>
+	<prsht.h>
+
+1228534330 c:\program files (x86)\codeblocks\mingw\include\unknwn.h
+	<windows.h>
+	<objfwd.h>
+	<wtypes.h>
+
+1228534324 c:\program files (x86)\codeblocks\mingw\include\objfwd.h
+	<basetyps.h>
+
+1228534334 c:\program files (x86)\codeblocks\mingw\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+
+1228534328 c:\program files (x86)\codeblocks\mingw\include\rpcndr.h
+	<rpcnsip.h>
+	<objfwd.h>
+
+1228534328 c:\program files (x86)\codeblocks\mingw\include\rpcnsip.h
+
+1228534334 c:\program files (x86)\codeblocks\mingw\include\winspool.h
+
+1228534334 c:\program files (x86)\codeblocks\mingw\include\winsock2.h
+	<windows.h>
+
+1228534332 c:\program files (x86)\codeblocks\mingw\include\winsock.h
+	<windows.h>
+	<mswsock.h>
+
+1228534322 c:\program files (x86)\codeblocks\mingw\include\mswsock.h
+
+1228534324 c:\program files (x86)\codeblocks\mingw\include\ole2.h
+	<winerror.h>
+	<objbase.h>
+	<olectlid.h>
+	<oleauto.h>
+	<oleidl.h>
+
+1228534324 c:\program files (x86)\codeblocks\mingw\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<stdlib.h>
+	<basetyps.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<cguid.h>
+
+1250308680 c:\program files (x86)\codeblocks\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1228534324 c:\program files (x86)\codeblocks\mingw\include\objidl.h
+	<objfwd.h>
+
+1228534312 c:\program files (x86)\codeblocks\mingw\include\cguid.h
+
+1228534324 c:\program files (x86)\codeblocks\mingw\include\olectlid.h
+
+1228534324 c:\program files (x86)\codeblocks\mingw\include\oleauto.h
+	<oaidl.h>
+
+1228534322 c:\program files (x86)\codeblocks\mingw\include\oaidl.h
+	<windows.h>
+	<ole2.h>
+
+1228534324 c:\program files (x86)\codeblocks\mingw\include\oleidl.h
+	<objfwd.h>
+
+976692172 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1228534334 c:\program files (x86)\codeblocks\mingw\include\gl\gl.h
+
+1228534334 c:\program files (x86)\codeblocks\mingw\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1250308678 c:\program files (x86)\codeblocks\mingw\include\math.h
+	<_mingw.h>
+
+1250308680 c:\program files (x86)\codeblocks\mingw\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1250308680 .h>
+
+1250308682 c:\program files (x86)\codeblocks\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1250308680 c:\program files (x86)\codeblocks\mingw\include\time.h
+	<_mingw.h>
+	<stddef.h>
+
+1301611022 d:\class activity\codebloksglut\text.h
+	<string>
+
+1302688853 d:\class activity\codebloksglut\drawing.h
+	<GL/glut.h>
+	<iostream>
+	"loadBMP.h"
+
+1302688853 "
+
+1299631208 d:\class activity\codebloksglut\loadbmp.h
+
+1302700233 d:\class activity\codebloksglut\game.h
+	<GL/glut.h>
+	<windows.h>
+	"vec3f.h"
+
+1302694475 source:d:\class activity\codebloksglut\game.cpp
+	<cmath>
+	<GL/glu.h>
+	<GL/gl.h>
+	<iostream>
+	"game.h"
+
+1301353536 source:d:\class activity\codebloksglut\loadbmp.cpp
+	<assert.h>
+	<fstream>
+	"loadBMP.h"
+
+1250308674 c:\program files (x86)\codeblocks\mingw\include\assert.h
+	<_mingw.h>
+
+1302279305 source:d:\class activity\codebloksglut\text.cpp
+	<windows.h>
+	<fstream>
+	<math.h>
+	<GL/glut.h>
+	"text.h"
+
+1302694876 source:d:\class activity\codebloksglut\main.cpp
+	<windows.h>
+	<cmath>
+	<GL/glut.h>
+	<GL/glu.h>
+	<GL/gl.h>
+	<iostream>
+	"drawing.h"
+	"game.h"
+
+1302637047 source:d:\class activity\codebloksglut\vec3f.cpp
+	<cmath>
+	"vec3f.h"
+
+1302622544 d:\class activity\codebloksglut\vec3f.h
+	<iostream>
+
+1302702593 source:d:\project\3d bounce final code\game.cpp
+	<cmath>
+	<GL/glu.h>
+	<GL/gl.h>
+	<iostream>
+	"game.h"
+
+1302700233 d:\project\3d bounce final code\game.h
+	<GL/glut.h>
+	<windows.h>
+	"vec3f.h"
+
+1302622544 d:\project\3d bounce final code\vec3f.h
+	<iostream>
+
+1301353536 source:d:\project\3d bounce final code\loadbmp.cpp
+	<assert.h>
+	<fstream>
+	"loadBMP.h"
+
+1299631208 d:\project\3d bounce final code\loadbmp.h
+
+1302637047 source:d:\project\3d bounce final code\vec3f.cpp
+	<cmath>
+	"vec3f.h"
+
+1302694876 source:d:\project\3d bounce final code\main.cpp
+	<windows.h>
+	<cmath>
+	<GL/glut.h>
+	<GL/glu.h>
+	<GL/gl.h>
+	<iostream>
+	"drawing.h"
+	"game.h"
+
+1302688853 d:\project\3d bounce final code\drawing.h
+	<GL/glut.h>
+	<iostream>
+	"loadBMP.h"
+
+1302810963 source:d:\project\3d bounce final code\drawing.cpp
+	<windows.h>
+	<GL/glut.h>
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<time.h>
+	"drawing.h"
+	"loadBMP.h"
+	"game.h"
+
+1302811863 source:/home/saikat/Desktop/3D bounce Final Code/drawing.cpp
+	<windows.h>
+	<GL/glut.h>
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<time.h>
+	"drawing.h"
+	"loadBMP.h"
+	"game.h"
+
+1302689753 /home/saikat/Desktop/3D bounce Final Code/drawing.h
+	<GL/glut.h>
+	<iostream>
+	"loadBMP.h"
+
+1299628508 /home/saikat/Desktop/3D bounce Final Code/loadBMP.h
+
+1302701133 /home/saikat/Desktop/3D bounce Final Code/game.h
+	<GL/glut.h>
+	<windows.h>
+	"vec3f.h"
+
+1302623444 /home/saikat/Desktop/3D bounce Final Code/vec3f.h
+	<iostream>
+
+1302816235 source:/home/saikat/Desktop/3D bounce Final Code/game.cpp
+	<cmath>
+	<GL/glu.h>
+	<GL/gl.h>
+	<iostream>
+	"game.h"
+
+1301354436 source:/home/saikat/Desktop/3D bounce Final Code/loadBMP.cpp
+	<assert.h>
+	<fstream>
+	"loadBMP.h"
+
+1302695776 source:/home/saikat/Desktop/3D bounce Final Code/Main.cpp
+	<windows.h>
+	<cmath>
+	<GL/glut.h>
+	<GL/glu.h>
+	<GL/gl.h>
+	<iostream>
+	"drawing.h"
+	"game.h"
+
+1302637947 source:/home/saikat/Desktop/3D bounce Final Code/vec3f.cpp
+	<cmath>
+	"vec3f.h"
+
